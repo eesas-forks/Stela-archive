@@ -41,7 +41,7 @@ and supports the Metal3 and Apple7 GPU families.
 ## Install
 
 1. Download `stela` from the
-   [releases page](https://github.com/tylertms/Stela/releases).
+   [releases page](https://github.com/eesas-forks/Stela-archive).
 2. Run `sudo ./stela` (Linux, macOS) or double-click `stela.exe`
    (Windows).
 3. Choose the USB stick and the installer, then confirm. This erases the USB
@@ -86,8 +86,8 @@ You need [Rust](https://rustup.rs), git, Python 3.10 or newer, and LLVM 21,
 newer also works.
 
 ```sh
-git clone https://github.com/tylertms/Stela
-cd Stela
+git clone https://github.com/eesas-forks/Stela-archive
+cd Stela-archive
 cargo xtask dist
 ```
 
